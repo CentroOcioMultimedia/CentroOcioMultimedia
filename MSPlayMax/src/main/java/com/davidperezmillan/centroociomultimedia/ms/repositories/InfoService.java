@@ -1,11 +1,11 @@
-package com.davidperezmillan.sandbox.rest.repositories;
+package com.davidperezmillan.centroociomultimedia.ms.repositories;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.davidperezmillan.sandbox.rest.entities.Info;
+import com.davidperezmillan.centroociomultimedia.ms.entities.Info;
 
 @Service
 public class InfoService {

@@ -1,4 +1,4 @@
-package com.davidperezmillan.sandbox.rest.entities;
+package com.davidperezmillan.centroociomultimedia.ms.entities;
 
 import lombok.Data;
 

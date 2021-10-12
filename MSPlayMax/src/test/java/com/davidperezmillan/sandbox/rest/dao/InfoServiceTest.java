@@ -19,8 +19,8 @@ import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
-import com.davidperezmillan.sandbox.rest.entities.Info;
-import com.davidperezmillan.sandbox.rest.repositories.InfoService;
+import com.davidperezmillan.centroociomultimedia.ms.entities.Info;
+import com.davidperezmillan.centroociomultimedia.ms.repositories.InfoService;
 import com.fasterxml.jackson.databind.ObjectMapper;
  
 @WebMvcTest

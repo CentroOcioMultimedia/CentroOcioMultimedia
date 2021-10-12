@@ -1,4 +1,4 @@
-package com.davidperezmillan.sandbox.rest;
+package com.davidperezmillan.centroociomultimedia.ms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

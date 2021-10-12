@@ -1,4 +1,4 @@
-package com.davidperezmillan.sandbox.rest.config;
+package com.davidperezmillan.centroociomultimedia.ms.config;
 
 import org.h2.server.web.WebServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;

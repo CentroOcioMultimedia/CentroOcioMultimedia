@@ -1,4 +1,4 @@
-package com.davidperezmillan.sandbox.rest.controllers;
+package com.davidperezmillan.centroociomultimedia.ms.controllers;
 
 import java.net.URI;
 import java.util.List;
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.davidperezmillan.sandbox.rest.entities.Info;
-import com.davidperezmillan.sandbox.rest.repositories.InfoService;
+import com.davidperezmillan.centroociomultimedia.ms.entities.Info;
+import com.davidperezmillan.centroociomultimedia.ms.repositories.InfoService;
 
 import lombok.extern.slf4j.Slf4j;
 

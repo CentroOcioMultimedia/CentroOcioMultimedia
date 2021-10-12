@@ -1,4 +1,4 @@
-package com.davidperezmillan.sandbox.rest.config;
+package com.davidperezmillan.centroociomultimedia.ms.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -16,7 +16,7 @@ public class SwaggerConfig {
 	@Bean
 	public Docket api() {
 		return new Docket(DocumentationType.SWAGGER_2).select()
-				.apis(RequestHandlerSelectors.basePackage("com.davidperezmillan.sandbox.rest.controllers"))
+				.apis(RequestHandlerSelectors.basePackage("com.davidperezmillan.centroociomultimedia.ms.controllers"))
 				.paths(PathSelectors.any())
 				.build();
 					
