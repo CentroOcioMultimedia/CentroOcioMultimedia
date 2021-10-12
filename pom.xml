@@ -6,4 +6,8 @@
   <packaging>pom</packaging>
   <name>CentroOcioMultimediaParent</name>
   <description>Parent Centro Ocio Multimedia</description>
+  
+  <modules>
+  	<module>MSPlayMax</module>
+  </modules>
 </project>
